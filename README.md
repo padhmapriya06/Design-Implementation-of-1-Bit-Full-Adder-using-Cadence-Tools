@@ -90,7 +90,7 @@ iv)	Creating the new test cell view
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![image](https://github.com/user-attachments/assets/09785a90-b311-4630-9421-4ed7ae7c69f2)
 
 # For Transient Analysis Settings and Output
 
